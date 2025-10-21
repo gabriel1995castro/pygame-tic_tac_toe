@@ -20,6 +20,14 @@ The project was created with the aim of practicing concepts of **programming log
 - Click on an empty cell to mark your move.
 - The game automatically alternates between X and O.
 
+## Screenshots
+
+Check out the game in action:
+| ![Tela 1](images/tela_inic.png) | ![Tela 2](images/mode_selection.png) |
+|-------------------------------|-------------------------------|
+| ![Tela 3](images/game_player.png) | ![Tela 4](images/end_game.png) |
+
+
 ## How to execute
 
 Clone the repository:
