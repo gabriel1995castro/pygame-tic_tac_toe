@@ -23,14 +23,20 @@ The project was created with the aim of practicing concepts of **programming log
 ## How to execute
 
 Clone the repository:
-``
+
+```bash
 git clone https://github.com/gabrielrcastro/pygame-tic_tac_toe.git
-``
-``
+```
+
+```bash
 cd pygame-tic_tac_toe
-``
+```
 Run the game:
-``
+
+```bash
 python3 main.py
-``
+```
+
+
+
 
